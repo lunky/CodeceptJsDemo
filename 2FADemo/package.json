@@ -1,0 +1,25 @@
+{
+  "name": "CodeceptJsDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^2.3.5",
+    "puppeteer": "^2.0.0",
+    "eslint": "^6.3.0",
+    "eslint-plugin-chai": "0.0.1",
+    "eslint-plugin-chai-expect": "^2.0.1",
+    "eslint-plugin-codeceptjs": "^1.1.0",
+    "eslint-plugin-mocha": "^6.1.1",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-security": "^1.4.0",
+    "faker": "^4.1.0",
+    "rosie": "^2.0.1"
+  }
+}

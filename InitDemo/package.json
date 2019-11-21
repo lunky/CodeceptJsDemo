@@ -1,0 +1,16 @@
+{
+  "name": "CodeceptJsDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx codeceptjs run --steps"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "codeceptjs": "^2.3.5",
+    "puppeteer": "^2.0.0"
+  }
+}
